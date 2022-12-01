@@ -141,7 +141,7 @@ $ sbatch execute_RNAseq_pipeline.sbatch
  
 Let's try this out. Follow along to test the scripts. Here's the plan...
  
-1. Ensure you have some tester fastq files already generated in your 01_input folder
+1. Ensure you have some tester fastq files in your 01_input folder
 2. Make a short test_metadata.txt file that will instruct our script to run on our tester fastq files only.
 3. Modify the **execute** script
 4. Modify the **analyzer** script
