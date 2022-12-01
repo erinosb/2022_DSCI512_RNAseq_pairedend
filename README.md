@@ -247,3 +247,5 @@ Did it work?
  
 
 Thanks!
+ 
+ [To Automation III](https://rna.colostate.edu/2022/doku.php?id=wiki:automationiii)
